@@ -50,14 +50,14 @@ print(note.isalnum())
 
 #Lists are ordered, mutable, dynamic and heterogenous
 
-list = [34.5, "Apple", 98, True]
-print(list)
+my_list = [34.5, "Apple", 98, True]
+print(my_list)
 
-print(type(list)) #type
+print(type(my_list)) #type
 
-print(list[1]) #indexing
+print(my_list[1]) #indexing
 
-print(list[1:3]) #indexing
+print(my_list[1:3]) #indexing
 
 #concatenation
 nums1 = [10, 20, 30, 40, 50]
@@ -75,3 +75,5 @@ print(nums2)
 nums2[0] = 100
 print(nums)
 print(nums2)
+number = list(range(1,101,1))
+print(number)
