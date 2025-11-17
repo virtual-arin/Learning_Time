@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form</title>
+  </head>
+  <body>
+    <form action="{{url_for('form')}}" method="post">
+      <input
+        type="text"
+        name="physics"
+        placeholder="physics"
+        required="required"
+      /><br />
+      <input
+        type="text"
+        name="chemistry"
+        placeholder="chemistry"
+        required="required"
+      /><br />
+      <input
+        type="text"
+        name="maths"
+        placeholder="maths"
+        required="required"
+      /><br />
+      <button type="submit" class="btn btn-primary btn-block btn-large">
+        calculate
+      </button>
+      <br />
+      <p>The average marks is {{score}}</p>
+    </form>
+  </body>
+</html>
