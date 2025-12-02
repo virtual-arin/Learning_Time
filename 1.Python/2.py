@@ -4,7 +4,7 @@
 age = int(input("Enter your age: "))
 
 if age < 18:
-    print("You are a kid! you cannot vote")
+    print("You cannot vote")
 else:
     print("You are eligible to vote")
 
