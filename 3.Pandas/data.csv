@@ -1,8 +1,8 @@
-First Name,Last Name,Age,School,Grade (Intermediate),State,College
-Arin,Sharma,21,St. Vishna RRN School,65%,Uttar Pradesh,Mangalayatan University
-Advik,Verma,20,Kendriya Vidyalaya,69%,Uttarakhand,"National Law University, Delhi"
-Vishal,Verma,20,Kendriya Vidyalaya,86%,Uttarakhand,National Defence Academy
-Vikas,Singh,20,Kendriya Vidyalaya,88%,Bihar,AIIMS (Delhi)
-Radhika,Singh,20,Kendriya Vidyalaya,96%,Sikkim,Amity University
-Vaishnavi,Singh,20,Kendriya Vidyalaya,84%,Haryana,NIT Kurukshetra
-Rishita,Bhatt,21,Kendriya Vidyalaya,99%,Gujarat,IIT Roorkee
+First Name,Last Name,Age,School,Grade (Intermediate),State,College,Profession
+Arin,Sharma,21,St. Vishna RRN School,65%,Uttar Pradesh,Mangalayatan University,Data Scientist
+Advik,Verma,20,Kendriya Vidyalaya,69%,Uttarakhand,"National Law University, Delhi",Advocate
+Vishal,Verma,20,Kendriya Vidyalaya,86%,Uttarakhand,National Defence Academy,Army
+Vikas,Singh,20,Kendriya Vidyalaya,88%,Bihar,AIIMS (Delhi),Doctor
+Radhika,Singh,20,Kendriya Vidyalaya,96%,Sikkim,Amity University,Software Engineer
+Vaishnavi,Singh,20,Kendriya Vidyalaya,84%,Haryana,NIT Kurukshetra,IAS
+Rishita,Bhatt,21,Kendriya Vidyalaya,99%,Gujarat,IIT Roorkee,AI Engineer
